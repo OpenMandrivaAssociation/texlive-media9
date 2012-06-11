@@ -1,11 +1,11 @@
-# revision 25842
+# revision 26204
 # category Package
 # catalog-ctan /macros/latex/contrib/media9
-# catalog-date 2012-03-29 08:49:40 +0200
+# catalog-date 2012-05-02 17:35:03 +0200
 # catalog-license lppl1.3
-# catalog-version 0.2
+# catalog-version 0.7
 Name:		texlive-media9
-Version:	0.2
+Version:	0.7
 Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
@@ -53,6 +53,8 @@ obsolete movie15 package.
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.fig
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.tex
+%doc %{_texmfdistdir}/doc/latex/media9/files/cube.asy
+%doc %{_texmfdistdir}/doc/latex/media9/files/cube.mp4
 %doc %{_texmfdistdir}/doc/latex/media9/files/dice.u3d
 %doc %{_texmfdistdir}/doc/latex/media9/files/dice.vws
 %doc %{_texmfdistdir}/doc/latex/media9/files/dice.wrl
