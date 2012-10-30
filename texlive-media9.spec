@@ -1,11 +1,11 @@
-# revision 27274
+# revision 27879
 # category Package
 # catalog-ctan /macros/latex/contrib/media9
-# catalog-date 2012-07-31 19:56:52 +0200
+# catalog-date 2012-10-04 13:44:39 +0200
 # catalog-license lppl1.3
-# catalog-version 0.10
+# catalog-version 0.15
 Name:		texlive-media9
-Version:	0.10
+Version:	0.15
 Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
