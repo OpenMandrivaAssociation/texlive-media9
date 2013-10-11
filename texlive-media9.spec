@@ -1,11 +1,11 @@
-# revision 27879
+# revision 31767
 # category Package
 # catalog-ctan /macros/latex/contrib/media9
-# catalog-date 2012-10-04 13:44:39 +0200
+# catalog-date 2013-09-26 00:38:07 +0200
 # catalog-license lppl1.3
-# catalog-version 0.15
+# catalog-version 0.33
 Name:		texlive-media9
-Version:	0.15
+Version:	0.33
 Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
@@ -53,6 +53,13 @@ obsolete movie15 package.
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.fig
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.tex
+%doc %{_texmfdistdir}/doc/latex/media9/files/bird.mp3
+%doc %{_texmfdistdir}/doc/latex/media9/files/boutona.pdf
+%doc %{_texmfdistdir}/doc/latex/media9/files/boutonb.pdf
+%doc %{_texmfdistdir}/doc/latex/media9/files/boutonc.pdf
+%doc %{_texmfdistdir}/doc/latex/media9/files/boutond.pdf
+%doc %{_texmfdistdir}/doc/latex/media9/files/boutone.pdf
+%doc %{_texmfdistdir}/doc/latex/media9/files/boutonf.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/files/cube.asy
 %doc %{_texmfdistdir}/doc/latex/media9/files/cube.mp4
 %doc %{_texmfdistdir}/doc/latex/media9/files/dice.u3d
@@ -61,6 +68,8 @@ obsolete movie15 package.
 %doc %{_texmfdistdir}/doc/latex/media9/files/epix.asy
 %doc %{_texmfdistdir}/doc/latex/media9/files/epix.prc
 %doc %{_texmfdistdir}/doc/latex/media9/files/mailto.png
+%doc %{_texmfdistdir}/doc/latex/media9/files/malte.js
+%doc %{_texmfdistdir}/doc/latex/media9/files/malte.u3d
 %doc %{_texmfdistdir}/doc/latex/media9/files/players/APlayer.mxml
 %doc %{_texmfdistdir}/doc/latex/media9/files/players/BSD-License
 %doc %{_texmfdistdir}/doc/latex/media9/files/players/SMPfixes.patch
