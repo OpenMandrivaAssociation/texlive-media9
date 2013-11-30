@@ -1,11 +1,11 @@
-# revision 31767
+# revision 32259
 # category Package
 # catalog-ctan /macros/latex/contrib/media9
-# catalog-date 2013-09-26 00:38:07 +0200
+# catalog-date 2013-11-27 12:09:32 +0100
 # catalog-license lppl1.3
-# catalog-version 0.33
+# catalog-version 0.37
 Name:		texlive-media9
-Version:	0.33
+Version:	0.37
 Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
@@ -46,8 +46,10 @@ obsolete movie15 package.
 %{_texmfdistdir}/tex/latex/media9/javascript/asylabels.js
 %{_texmfdistdir}/tex/latex/media9/media9.sty
 %{_texmfdistdir}/tex/latex/media9/players/APlayer.swf
+%{_texmfdistdir}/tex/latex/media9/players/APlayer9.swf
 %{_texmfdistdir}/tex/latex/media9/players/StrobeMediaPlayback.swf
 %{_texmfdistdir}/tex/latex/media9/players/VPlayer.swf
+%{_texmfdistdir}/tex/latex/media9/players/VPlayer9.swf
 %doc %{_texmfdistdir}/doc/latex/media9/ChangeLog
 %doc %{_texmfdistdir}/doc/latex/media9/README
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.fig
@@ -62,19 +64,23 @@ obsolete movie15 package.
 %doc %{_texmfdistdir}/doc/latex/media9/files/boutonf.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/files/cube.asy
 %doc %{_texmfdistdir}/doc/latex/media9/files/cube.mp4
+%doc %{_texmfdistdir}/doc/latex/media9/files/cubeposter.png
 %doc %{_texmfdistdir}/doc/latex/media9/files/dice.u3d
 %doc %{_texmfdistdir}/doc/latex/media9/files/dice.vws
 %doc %{_texmfdistdir}/doc/latex/media9/files/dice.wrl
 %doc %{_texmfdistdir}/doc/latex/media9/files/epix.asy
 %doc %{_texmfdistdir}/doc/latex/media9/files/epix.prc
+%doc %{_texmfdistdir}/doc/latex/media9/files/epixposter.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/files/mailto.png
 %doc %{_texmfdistdir}/doc/latex/media9/files/malte.js
 %doc %{_texmfdistdir}/doc/latex/media9/files/malte.u3d
 %doc %{_texmfdistdir}/doc/latex/media9/files/players/APlayer.mxml
+%doc %{_texmfdistdir}/doc/latex/media9/files/players/APlayer9.mxml
 %doc %{_texmfdistdir}/doc/latex/media9/files/players/BSD-License
 %doc %{_texmfdistdir}/doc/latex/media9/files/players/SMPfixes.patch
 %doc %{_texmfdistdir}/doc/latex/media9/files/players/StrobeMediaPlayback-license
 %doc %{_texmfdistdir}/doc/latex/media9/files/players/VPlayer.mxml
+%doc %{_texmfdistdir}/doc/latex/media9/files/players/VPlayer9.mxml
 %doc %{_texmfdistdir}/doc/latex/media9/files/random.mp4
 %doc %{_texmfdistdir}/doc/latex/media9/media9.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/media9.tex
