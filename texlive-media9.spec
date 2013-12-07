@@ -6,7 +6,7 @@
 # catalog-version 0.37
 Name:		texlive-media9
 Version:	0.37
-Release:	4
+Release:	5
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/media9
