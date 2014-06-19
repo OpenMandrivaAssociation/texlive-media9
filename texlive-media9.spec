@@ -1,12 +1,12 @@
-# revision 33108
+# revision 33290
 # category Package
 # catalog-ctan /macros/latex/contrib/media9
-# catalog-date 2014-03-06 14:39:52 +0100
+# catalog-date 2014-03-25 20:14:30 +0100
 # catalog-license lppl1.3
-# catalog-version 0.41
+# catalog-version 0.43
 Name:		texlive-media9
-Version:	0.41
-Release:	2
+Version:	0.43
+Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/media9
@@ -55,7 +55,6 @@ obsolete movie15 package.
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.fig
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/files/3dsystem.tex
-%doc %{_texmfdistdir}/doc/latex/media9/files/bird.mp3
 %doc %{_texmfdistdir}/doc/latex/media9/files/boutona.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/files/boutonb.pdf
 %doc %{_texmfdistdir}/doc/latex/media9/files/boutonc.pdf
