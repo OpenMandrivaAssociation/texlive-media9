@@ -1,12 +1,12 @@
 Name:		texlive-media9
-Version:	0.95
+Version:	64047
 Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/media9
 License:	LPPL1.3
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/media9.tar.xz
-Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/media9.doc.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/media9.r%{version}.tar.xz
+Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/media9.doc.r%{version}.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
@@ -25,12 +25,12 @@ an Adobe addition to the PDF specification. It replaces the now
 obsolete movie15 package.
 
 %post
-    %{_sbindir}/texlive.post
+%{_sbindir}/texlive.post
 
 %postun
-    if [ $1 -eq 0 ]; then
+if [ $1 -eq 0 ]; then
 	%{_sbindir}/texlive.post
-    fi
+fi
 
 #-----------------------------------------------------------------------
 %files
@@ -39,7 +39,7 @@ obsolete movie15 package.
 
 #-----------------------------------------------------------------------
 %prep
-%setup -c -a0 -a1
+%autosetup -p1 -c -a1
 
 %build
 
