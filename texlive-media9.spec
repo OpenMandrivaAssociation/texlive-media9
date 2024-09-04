@@ -1,6 +1,6 @@
 Name:		texlive-media9
-Version:	64047
-Release:	2
+Version:	72173
+Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/media9
