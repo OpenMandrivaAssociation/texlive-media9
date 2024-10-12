@@ -1,5 +1,5 @@
 Name:		texlive-media9
-Version:	72173
+Version:	72299
 Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
