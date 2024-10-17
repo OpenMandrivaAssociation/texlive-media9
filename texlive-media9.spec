@@ -3,7 +3,7 @@ Version:	72299
 Release:	1
 Summary:	Multimedia inclusion package with Adobe Reader-9/X compatibility
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/media9
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/media9
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/media9.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/media9.doc.r%{version}.tar.xz
